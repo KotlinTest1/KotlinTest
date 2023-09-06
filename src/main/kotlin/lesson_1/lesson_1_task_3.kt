@@ -6,8 +6,12 @@ fun main(args: Array<String>) {
 
         var minute = 55
 
-        print(message = hour)
+        var separation = ":"
 
-        print(message = minute)
+        print(hour)
+
+        print(separation)
+
+        print(minute)
 
 }
